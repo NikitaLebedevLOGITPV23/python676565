@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythoN", "PythoN\PythoN.pyproj", "{552F43C4-1B1F-4486-B32C-CA4395AADCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552F43C4-1B1F-4486-B32C-CA4395AADCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552F43C4-1B1F-4486-B32C-CA4395AADCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD893DE5-FFB7-43F7-8E0A-1A93D7854280}
+	EndGlobalSection
+EndGlobal
